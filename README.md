@@ -1,5 +1,7 @@
 # SnowHack-Latest
-qq i challange u to crack it if u can hehehe.
+![GitHub all releases](https://img.shields.io/github/downloads/FaxHack/SnowHack-Latest/total)
+
+Crystallinqq i challange you to try crack the client if u can.
 
 Star Repo or gay
 
